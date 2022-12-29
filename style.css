@@ -1,0 +1,605 @@
+body {
+    background-color: rgb(248, 241, 241);
+}
+
+#header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(248, 241, 241);
+    margin-left: -9px;
+    margin-top: -68px;
+
+
+}
+
+#grind {
+    margin-left: 560px;
+    margin-top: -47px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(55, 36, 9, 0.934);
+}
+
+/* #nothin {
+    width: 100%;
+    height: 20px;
+    margin-top: -162px;
+
+} */
+
+#logo {
+    margin-top: 30px;
+    margin-left: 470px;
+    width: 70px;
+    height: 50px;
+}
+
+#headset {
+    margin-top: -49px;
+
+}
+
+#drink {
+    text-align: center;
+    width: 101%;
+    height: 20px;
+    background-color: rgb(248, 241, 241);
+    margin-left: -9px;
+    margin-top: -1800px;
+    position: sticky;
+    top: 0px;
+    font-family: monospace;
+
+}
+
+#bgpic {
+    width: 1900px;
+    height: 1700px;
+    padding-top: 100px;
+
+    background-image: url(/images/mukul-wadhwa-xpo5BggQo3E-unsplash.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#text {
+    height: 500px;
+    width: 600px;
+    /* background-color: yellow; */
+    margin-top: -30px;
+    margin-left: 180px;
+}
+
+#coffe {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    font-size: 45px;
+}
+
+.firstpara {
+
+
+    margin: 5px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 26px;
+    margin-left: 2px;
+    margin-top: 10px;
+
+}
+
+#fall {
+    background-image: url(/images/nathan-dumla\ bg\ remove.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 500px;
+    margin-top: -430px;
+    margin-left: 917px;
+
+}
+
+.top {
+    width: 101%;
+    height: 1500px;
+    background-image: url(/images/firdaus-ramadhan-1AMsQMsERy4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: black; */
+    margin-top: 500px;
+    margin-left: 1px;
+
+
+}
+
+#tophead {
+
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 243px;
+}
+
+#contentoftop {
+    width: 800px;
+    height: 1450px;
+    position: absolute;
+    border-radius: 15px;
+    background-image: url(/images/alin-luna-lGl3spVIU0g-unsplash.jpg);
+    background-size: cover;
+    margin-top: -1420px;
+    margin-left: 240px;
+}
+
+#sb {
+    width: 650px;
+    height: 500px;
+    /* background-color: blue; */
+    margin-left: 70px;
+    display: flex;
+    margin-top: 20px;
+}
+
+#sbpic {
+    width: 50px;
+    height: 60px;
+    /* background-color: yellow; */
+
+
+
+}
+
+#sbpicc {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+#sbtext {
+    width: 300px;
+    height: 300px;
+    /* background-color: tomato; */
+    
+    margin-top: 12px;
+
+}
+
+.brandhead {
+    color: rgb(75, 64, 50);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.toptxt {
+    line-height: 22px;
+    color: rgb(104, 94, 80);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#th {
+    width: 650px;
+    height: 370px;
+    /* background-color: rgb(183, 243, 135); */
+    margin-left: 70px;
+    display: flex;
+    margin-top: -160px;
+}
+
+#thpic {
+
+    width: 300px;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+#thtext {
+    width: 300px;
+    height: 300px;
+    /* background-color: tomato; */
+    margin-top: 50px;
+}
+
+.thp {
+    line-height: 20px;
+}
+
+#mc {
+    width: 650px;
+    height: 370px;
+    /* background-color: rgb(186, 53, 53); */
+    margin-left: 70px;
+    display: flex;
+    margin-top: -65px;
+   
+}
+
+#mcpic {
+
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+
+
+#dd {
+    width: 650px;
+    height: 370px;
+    /* background-color: rgb(193, 13, 213); */
+    margin-left: 70px;
+    display: flex;
+    margin-top: 70px;
+}
+
+#ddtext {
+    width: 300px;
+    height: 300px;
+    /* background-color: tomato; */
+    margin-top: -35px;
+}
+
+#ddpic {
+
+    width: 300px;
+    height: 300px;
+    margin-top: -8px;
+    margin-left: 50px;
+    border-radius: 20px;
+
+
+}
+
+#gallery {
+    width: 100%;
+    height: 980px;
+    background-image: url(/images/bg.jpg);
+    background-size: cover;
+}
+
+#galhead {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(88, 70, 70);
+    margin-top: -900px;
+    margin-left: 180px;
+    font-size: 50px;
+}
+
+.row1 {
+    width: 100%;
+    height: 250px;
+    /* background-color: cadetblue; */
+    margin-top: 40px;
+    display: flex;
+
+
+}
+
+.pic {
+    width: 300px;
+    height: 220px;
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.pic1 {
+
+    background-image: url(/images/nathan-dumlao-V6WUpAOmioc-unsplash.jpg);
+    /* background-color: yellow; */
+    margin-left: 140px;
+}
+
+.pic2 {
+
+    background-image: url(/images/coffee2.jpg);
+
+    /* background-color: red; */
+    margin-left: 40px;
+}
+
+.pic3 {
+
+    background-image: url(/images/nathan-dumlao-mgxgvwam_-c-unsplash.jpg);
+    /* background-color: blue; */
+    margin-left: 40px;
+
+}
+
+.row2 {
+    width: 100%;
+    height: 250px;
+    /* background-color: red; */
+    margin-top: px;
+    display: flex;
+
+
+}
+
+.pic4 {
+    background-image: url(/images/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg);
+
+    /* background-color: yellow; */
+    margin-left: 140px;
+}
+
+.pic5 {
+    background-image: url(/images/shche_-team--5Wd6lAn1QA-unsplash.jpg);
+
+    /* background-color: rgb(87, 225, 225); */
+    margin-left: 40px;
+}
+
+.pic6 {
+    background-image: url(/images/devin-avery-5iRgh_G0eRY-unsplash.jpg);
+
+    /*     
+    background-color: blue; */
+    margin-left: 40px;
+}
+
+.row3 {
+
+    width: 100%;
+    height: 250px;
+    /* background-color: rgb(146, 193, 29); */
+    margin-top: px;
+    display: flex;
+
+
+}
+
+.pic7 {
+    background-image: url(/images/jarek-ceborski-IhqDpFz7I8Q-unsplash.jpg);
+
+    /* background-color: yellow; */
+    margin-left: 140px;
+}
+
+.pic8 {
+    background-image: url(/images/clay-banks-_wkd7XBRfU4-unsplash.jpg);
+    /*   
+    background-color: red; */
+    margin-left: 40px;
+}
+
+.pic9 {
+
+    background-image: url(/images/pexels-matthias-cooper-1816092.jpg);
+    /* background-color: blue; */
+    margin-left: 40px;
+}
+
+#query {
+    width: 100%;
+    height: 390px;
+    background-color: rgb(237, 235, 233);
+}
+
+#no {
+    width: 100%;
+    height: 10px;
+    background-color: rgb(245, 239, 232);
+
+}
+
+#hsq {
+    margin-top: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(103, 93, 60);
+}
+
+#qry {
+    width: 350px;
+    height: 250px;
+    background-color: rgb(199, 185, 185);
+    margin-left: 440px;
+    border: 3px ridge rgb(247, 247, 247);
+    border-radius: 12px;
+}
+
+#qry:hover {
+    background-color: rgb(209, 194, 194);
+}
+
+#name {
+    margin-left: 70px;
+
+    display: flex;
+    margin-top: 10px;
+}
+
+#txt {
+    margin-left: 20px;
+    height: 20px;
+    border: 0px;
+    border-radius: 6px;
+    margin-top: 18px;
+
+}
+
+#email {
+    display: flex;
+    margin-left: 66px;
+    margin-top: -50px;
+
+}
+
+#mail {
+    margin-left: 24px;
+    height: 20px;
+    border: 0px;
+    border-radius: 6px;
+    margin-top: 18px;
+
+}
+
+#textarea {
+    display: flex;
+    margin-left: 27px;
+    margin-top: -30px;
+}
+
+#area {
+    margin-left: 24px;
+    height: 40px;
+    border: 0px;
+    border-radius: 6px;
+    margin-top: 18px;
+}
+
+#submit {
+    cursor: pointer;
+    margin-left: 130px;
+    margin-top: 40px;
+    width: 70px;
+    height: 26px;
+    background-color: beige;
+    border: 0;
+    width: 80px;
+    border-radius: 10px;
+}
+
+#footer {
+    width: 100%;
+    height: 320px;
+    background-color: rgb(36, 32, 32);
+    margin-top: -30px;
+
+}
+
+hr {}
+
+
+
+
+
+/* #flogo{
+    background-image: url(/images/coffee-grains.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 50px;
+
+} */
+.ch {
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.f1 {
+    color: rgba(255, 255, 255, .5);
+    margin-top: -5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+#frow2 {
+    display: flex;
+    margin-left: 340px;
+}
+
+#fhead {
+    margin-top: 20px;
+
+}
+
+.reach {
+    color: rgba(255, 255, 255, .5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+    margin-top: 4px;
+
+}
+
+.reach:hover {
+    color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+}
+
+#copy {
+    color: rgba(255, 255, 255, 0.902);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 455px;
+    margin-top: -10px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    margin-left: 470px;
+
+    color: white;
+}
+
+.fa-twitter {
+
+    color: white;
+}
+
+.fa-google {
+
+    color: white;
+}
+
+.fa-linkedin {
+
+    color: white;
+}
+
+.fa-youtube {
+
+    color: white;
+}
+
+.fa-instagram {
+
+    color: white;
+}
+
+.fa-pinterest {
+
+    color: white;
+}
+
+.support {
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50px 50px 0px 50px;
+    float: right;
+    margin-top: 60px;
+    margin-right: 6px;
+    position: sticky;
+    top: 500px;
+
+    background: url(/images/coustomercare.png);
+    background-size: contain;
+}
+.det{
+    margin-top: 60px;
+    margin-left: 540px;
+
+}
+.contact{
+    margin-top: 110px;
+}
